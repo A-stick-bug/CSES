@@ -12,3 +12,9 @@ addition to the problem itself
   - so a template segment tree problem would have a 
   higher point value than a difficult binary search problem since 
   the concept itself is harder
+  - "Ad hoc" refers to uncategorized observation/thinking based problems 
+   (more thinking than coding) and tend to require mathematical intuition.
+    - "Constructive", usually has ad hoc aspects and requires you to make a 
+      structure (array,tree,etc.) satisfying some property
+  - "Implementation" either means the problem is implementation heavy or there is
+    not really an algorithm and you just have to code it.
