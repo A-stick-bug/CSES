@@ -2,7 +2,7 @@
 # Sliding window/2-pointers, 10p (using dict/set would be 7p)
 #
 # This is the classic longest unique subarray problem
-# We avoid hashing based solutions for a big longer, and instead track current subarray numbers in a SortedList
+# We avoid hashing based solutions for a bit longer, and instead track current subarray numbers in a SortedList
 # TC: O(nlogn)
 
 class SortedList:
