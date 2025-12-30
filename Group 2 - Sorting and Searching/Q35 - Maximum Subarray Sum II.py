@@ -8,6 +8,7 @@
 # TC: O(nlogn)
 # SC: O(nlogn), ~100mb depending on Python interpreter
 # We could get O(n) SC by maintaining a multiset and picking the min, but range query is very clean here
+# We could also get O(n) TC using monotonic queues but those are quite unintuitive, and we leave them for later
 
 from itertools import accumulate
 
