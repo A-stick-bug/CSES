@@ -1,5 +1,5 @@
 // https://cses.fi/problemset/task/1635
-// Knapsack DP (counting ver.), 7p
+// Sequence DP, 7p
 //
 // This is basically [G3 Q1 - Dice Combinations](https://cses.fi/problemset/task/1633) with more dice faces
 // dp[x] = number of ways to make a sum of x

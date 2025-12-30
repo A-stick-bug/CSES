@@ -1,5 +1,5 @@
 # https://cses.fi/problemset/task/1633
-# Partitioning DP, 7p
+# Sequence DP, 7p
 #
 # Note that order matters here, so 1+2 is distinct from 2+1
 # dp[x] = number of ways to make a sum of x using 1-6

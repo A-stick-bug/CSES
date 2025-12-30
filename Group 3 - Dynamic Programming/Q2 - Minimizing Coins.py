@@ -1,5 +1,5 @@
 # https://cses.fi/problemset/task/1634
-# Knapsack DP, 7p
+# Unbounded knapsack DP, 7p
 #
 # dp[x] = minimum number of coins to make a sum of x
 # TC: O(n * X)
