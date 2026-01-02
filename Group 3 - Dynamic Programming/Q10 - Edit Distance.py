@@ -1,5 +1,5 @@
 # https://cses.fi/problemset/task/1639
-# Sequence DP, 10-12p
+# 2D Sequence DP, 10-12p
 #
 # dp[i][j] = minimum moves to turn first `i` in s to first `j` in t
 # Insertion is the trickiest, think of it as inserting into a position that matches with `j` in t
