@@ -14,7 +14,7 @@
 
  TC: O(nlogn)
  SC: O(nlogn)
- Possible tradeoff: use segment tree for O(n*log^2(n)) time and O(n) space
+ Possible tradeoff: use segment tree for O(n) space but slower queries
  */
 
 #include <bits/stdc++.h>
