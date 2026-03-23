@@ -4,7 +4,7 @@
 # Precompute the earliest time that monsters reach each cell with multi source bfs
 # Then run normal bfs with the player, ensuring we never go to a cell possibly occupied by a monster
 #
-# TC: O(n + m)
+# TC: O(RC)
 
 import sys
 from collections import deque
